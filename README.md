@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 👩‍💻 love building cool things to improve social and mental well-being  
 🤝 always looking to connect with others passionate about technology!  
 🌐 [www.linkedin.com/in/shriyakankatala](https://www.linkedin.com/in/shriyakankatala)  
-💌 [kankats@umich.edu] (kankats@umich.edu)  
+💌 kankats@umich.edu 
