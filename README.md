@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📚 studying CS and minoring in Business and Math at the University of Michigan
-👩‍💻 love building cool things to improve social and mental well-being
-🤝 always looking to connect with others passionate about technology!
-🌐 www.linkedin.com/in/shriyakankatala
-💌 kankats@umich.edu
+📚 studying CS and minoring in Business and Math at the University of Michigan  
+👩‍💻 love building cool things to improve social and mental well-being  
+🤝 always looking to connect with others passionate about technology!  
+🌐 [www.linkedin.com/in/shriyakankatala](https://www.linkedin.com/in/shriyakankatala)  
+💌 [kankats@umich.edu] (kankats@umich.edu)  
