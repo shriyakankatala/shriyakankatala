@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Shriya! 👋
 
 <!--
 **shriyakankatala/shriyakankatala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+📚 studying CS and minoring in Business and Math at the University of Michigan
+👩‍💻 love building cool things to improve social and mental well-being
+🤝 always looking to connect with others passionate about technology!
+🌐 www.linkedin.com/in/shriyakankatala
+💌 kankats@umich.edu
