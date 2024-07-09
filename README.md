@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 📚 studying CS and minoring in Business and Math at the University of Michigan  
 👩‍💻 love building cool things to improve social and mental well-being  
 🤝 always looking to connect with others passionate about technology!  
-🌐 <a href="https://www.linkedin.com/in/shriyakankatala" target="_blank">www.linkedin.com/in/shriyakankatala</a>  
+🔗 <a href="https://www.shriyakankatala.com/" target="_blank">shriyakankatala.com</a>
+🌐 <a href="https://www.linkedin.com/in/shriyakankatala" target="_blank">linkedin.com/in/shriyakankatala</a>  
 💌 kankats@umich.edu  
